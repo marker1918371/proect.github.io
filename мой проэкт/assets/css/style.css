@@ -1,0 +1,151 @@
+.header {
+  max-height: 65px;
+}
+
+body{
+  background-color: #4F0063;
+  background-size: cover;
+}
+.container{
+  width: 1440PX;
+  padding: 900PX;
+  margin: 0 auto;
+  padding: 0 20px;
+  position: relative;
+  left: 200px;
+}
+
+.header_logo{
+  width: 40%;
+  text-decoration: none;
+  display: inline-block;
+  position: relative;
+  left: -50px;
+}
+
+.header_wrap {
+  color: #380E41;
+  display: flex;
+  text-decoration: none;
+  font-size: 12px;
+  padding: 37px;
+  display: inline-block;
+  position: relative;
+  left: 450px;
+  bottom: 105px;
+}
+
+.header_btn{
+  color: #fff;
+  background-color: #C54B8C;
+  padding: 15px;
+  border-radius: 4px;
+  text-decoration: none;
+  position: relative;
+  left: 970px;
+  bottom: 165px;
+  margin-left: 20px;
+}
+
+.background{
+  background: url('../img/Group\ 57.png') no-repeat center center / cover;
+  margin: 0;
+  padding: 0;
+  width:  100%;
+  height: 140vh;
+  position: relative;
+  left: -200px;
+    
+}
+
+.prem_text{
+  color: #fff;
+  font-size: 24px;
+  margin-left: 200px;
+  position: relative;
+  top: 100px;
+
+}
+
+.photo_one{
+  width: 0;
+ position: relative;
+ left: 1000px;
+ bottom: 125px;
+}
+
+.mini_ligi{
+  width: 0;
+  position: relative;
+  left: 200px;
+  bottom: 210px;
+}
+
+.mini_text{
+  width: 0;
+  color: #fff;
+  font-size: 10.01px;
+  position: relative;
+  left: 355px;
+  bottom: 245px;
+}
+
+.photo_two{
+  width: 0;
+  position: relative;
+  left: 275px;
+  bottom: 150px;
+}
+
+.title_text{
+  width:100;
+  color: #fff;
+  font-size: 24px;
+  position: relative;
+  left: 800px;
+  bottom: 475px;
+}
+
+.mini_text__two{
+  width:100;
+  color: #fff;
+  font-size: 24px;
+  position: relative;
+  left: 800px;
+  bottom: 450px;
+}
+
+.btn{
+  max-width: 40px;
+  color: #fff;
+  background-color: #c03d83;
+  text-decoration: none;
+  display: flex;
+  padding: 8px;
+  border-radius: 4px;
+  position: relative;
+  left: 725px;
+  bottom: 250px;
+  
+}
+
+.sot_logo{
+  position: relative;
+  left:250px;
+  top: 60px;
+}
+
+.swet{
+  color: #fff;
+  position: relative;
+  bottom: 65px;
+  left: 250px;
+
+}
+
+.mail{
+  color: #fff;
+  position: relative;
+  left: 250px;
+  bottom: 65px;
+}

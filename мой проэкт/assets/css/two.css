@@ -1,0 +1,147 @@
+@font-face {
+    font-family: kelly;
+    src: url(/assets/fons/KellySlab-Regular.ttf);
+}
+
+.header {
+    max-height: 65px;
+  }
+  
+  body{
+    background-color: #4F0063;
+    background-size: cover;
+    display: flex;
+  }
+  .container{
+    display: flex;
+    width: 1440PX;
+    padding: 900PX;
+    margin: 0 auto;
+    padding: 0 20px;
+    position: relative;
+    left: 200px;
+  }
+  
+  .header_logo{
+    display: flex;
+    width: 40%;
+    text-decoration: none;
+    display: inline-block;
+    position: relative;
+    left: -500px;
+  }
+  
+  .header_wrap {
+    color: #380E41;
+    display: flex;
+    text-decoration: none;
+    font-size: 12px;
+    padding: 37px;
+    display: inline-block;
+    position: relative;
+    left: 600px;
+    bottom: 190px;
+  }
+  
+  .header_btn{
+    color: #fff;
+    background-color: #C54B8C;
+    padding: 15px;
+    border-radius: 4px;
+    text-decoration: none;
+    position: relative;
+    left: 1150px;
+    bottom: 260px;
+    margin-left: 20px;
+  }
+  
+  .background{
+          background: url('../img_two/Frame\ 9.png') no-repeat center center / cover;
+          margin: 0;
+          padding: 0;
+          width: 280%;
+          height: 165vh;
+          position: relative;
+          top: 100px;
+            
+}
+
+.text__title{
+    color: #fff;
+    font-size: 32px;
+    position: relative;
+    top: 300px;
+    left: -750px;
+}
+
+.mini__title{
+    color: #fff;
+    font-size: 24px;
+    position: relative;
+    top: 400px;
+    right: 675px;
+}
+
+.img__1{
+    position: relative;
+    top: 250px;
+    left: -1150px;
+}
+
+.img__2{
+    position: relative;
+    bottom: 160px;
+    left: -350px;
+}
+
+.img__3{
+    position: relative;
+    left: -1500px;
+}
+
+.btn__1{
+    color: #fff;
+    background-color: #C54B8C;
+    height: 0;
+    width: 0;
+    padding: 10px ;
+    font-size: 32px;
+    text-decoration: none;
+    border-radius: 14px;
+    position: relative;
+    left: -315px;
+    bottom: 500px;
+    
+}
+.text{
+    color: #fff;
+    font-size: 14px;
+    position: relative;
+    left: -1000px;
+    top: -450px;
+    justify-content: space-between;
+    >p{
+        padding-top: 20px;
+    }
+}
+.sot_logo{
+    position: relative;
+    left:-2650px;
+    top: 1710px;
+  }
+  
+  .swet{
+    width: 150px;
+    color: #fff;
+    position: relative;
+    bottom: -1550px;
+    left: -2650px;
+  
+  }
+  
+  .mail{
+    color: #fff;
+    position: relative;
+    left: -2650px;
+    bottom: -1550px;
+  }
